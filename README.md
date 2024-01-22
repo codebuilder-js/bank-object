@@ -1,0 +1,1 @@
+A little project of a bank account with methods, prototype and polimorfism. The code allow the user to withdraw, deposit and see the balance. Feel free to contribute!
